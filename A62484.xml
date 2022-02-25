@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three great victories I. obtained by Collonel Jones, and adjutant general Louthanie, in the entring of the town of Chester, where they took all the northeast part of the town, and the barres, and all the outworks, and works, as farre as the east gate, with all the particulars of the said fight, and the summons sent in, for the surrender of the city and castle : II. the taking of the devizes, by lieutenant generall Cromwell, with the aricles whereupon it was surrendred, on Tuesday the 24. of September, 1645, with all the particulars, about the same : III. the copie of a letter from lieutenant generall Leshley, to his excellency the Earl of Leven, of the glorious victory obtained in Scotland against Montrosse, 3 barons, killed upon the  place, 2500 also slain, 700 killed in persuit, 500 laid down their armes, 6 lords, and 1700 others taken prisoners, amongst which many of quality, and a list of the names of the chiefest of those were slain and taken, 4000 armes taken, and all Montrosses carriages and ammunition, bag and baggage : commanded to be printed ... publish'd according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62484</idno>
+            <idno type="STC">Wing T1093</idno>
+            <idno type="STC">ESTC R1414</idno>
+            <idno type="EEBO-CITATION">12368531</idno>
+            <idno type="OCLC">ocm 12368531</idno>
+            <idno type="VID">60487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 900:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three great victories I. obtained by Collonel Jones, and adjutant general Louthanie, in the entring of the town of Chester, where they took all the northeast part of the town, and the barres, and all the outworks, and works, as farre as the east gate, with all the particulars of the said fight, and the summons sent in, for the surrender of the city and castle : II. the taking of the devizes, by lieutenant generall Cromwell, with the aricles whereupon it was surrendred, on Tuesday the 24. of September, 1645, with all the particulars, about the same : III. the copie of a letter from lieutenant generall Leshley, to his excellency the Earl of Leven, of the glorious victory obtained in Scotland against Montrosse, 3 barons, killed upon the  place, 2500 also slain, 700 killed in persuit, 500 laid down their armes, 6 lords, and 1700 others taken prisoners, amongst which many of quality, and a list of the names of the chiefest of those were slain and taken, 4000 armes taken, and all Montrosses carriages and ammunition, bag and baggage : commanded to be printed ... publish'd according to order.</title>
+                  <author>Newark, David Leslie, Baron, d. 1682.</author>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title: The manner of the entring Chester, by Collonel Jones, and adjutant general Louthanie, with Sir William Brewertons forces, on Saturday the 20. of Sept. 1645 (also Wing M469)</note>
+                  <note>Parts II. and III. lacking in filmed copy.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Michael, d. 1649.</term>
+               <term>Lothian, James.</term>
+               <term>Brereton, William, --  Sir, 1604-1661.</term>
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Chester (England) --  History --  Siege, 1645.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60487:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:60487:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>THREE GREAT VICTORIES:
+<list>
+                  <item>I. Obtained by Collonel JONES, and Adjutant Generall <hi>Louthanie,</hi> in the entring of the Town of Cheſter; where they took all the Northeaſt part of the Town, and the Barres, and all the Out<g ref="char:EOLhyphen"/>works, and Works, as farre as the Eaſt Gate; With all the particulars of the ſaid fight, and the ſummons ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in, for the ſurrender of the City and Caſtle.</item>
+                  <item>II. The taking of the Devizes, by Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell;</hi> With the Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icles where<g ref="char:EOLhyphen"/>upon it was ſurrendred, on Tueſday the 24. of S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<g ref="char:EOLhyphen"/>tember, 1645. With all the particulars about the ſame.</item>
+                  <item>III. The Copie of a Letter from Lieutenant Generall <hi>Leſhl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y,</hi> to his Excellency the Earl of <hi>Leven,</hi> of the glorious Victory obtained in Scotland againſt <hi>Montroſſe.</hi> 3. Barons killed upon the place, 2500. al<g ref="char:EOLhyphen"/>ſo ſlain, 700. killed in perſuit, 500. laid down their Armes, 6. Lords, and 17<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. others taken priſoners, amongſt which many of quality; And a Liſt of the Names of the chiefeſt of choſe were ſlain and taken, 4000. Armes taken, and all <hi>Montroſſes</hi> Carriages and Ammunition, Bag and Baggage.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Commanded to be printed, an publiſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d according to Order.</hi>
+            </p>
+            <p>London printed, by <hi>Iane <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:60487:2"/>
+            <!-- PDF PAGE 21 -->
+            <pb facs="tcp:60487:2"/>
+            <!-- PDF PAGE 21 -->
+            <head>The manner of the entring <hi>Cheſter,</hi> by Col<g ref="char:EOLhyphen"/>lonel <hi>Jones,</hi> and Adjutant Generall <hi>Lou<g ref="char:EOLhyphen"/>thanie,</hi> with Sir <hi>William Brewertons</hi> For<g ref="char:EOLhyphen"/>ces; On Saturday the 20. of <hi>Sept.</hi> 1645.</head>
+            <head type="sub">Certified by a Letter from thence, dated Sept. the <hi>21. 1645.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have proceeded ſo farre in the Leaguer at Bee<g ref="char:EOLhyphen"/>ſton, for the taking of the Caſtle, as we could; and have ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll kept in the Enemy on this ſide Cheſter, that they have not offended us, their ſallies out have turned to their prejudice: The Lord <hi>Byron</hi> hath been lately out on the Welch ſide, and we have longed for Sir <hi>William Brewertons</hi> comming down to command in chief, which would by this time have been an occaſion of doubling of our forces. But however, we (ſeeing that it could not be at preſent, and) being unwilling to loſe what advantage we could gaine, have attempted a great deſigne, ſuch an one as you will wonder at, knowing the ſmallneſſe of ſtrength; Yet (to God be the praiſe) we are able to give a very good accompt of it hitherto, and ſo I hope we ſhall for the future.</p>
+            <p>SIR, Not to trouble you with a tedious diſcourſe of the buſineſſe, time being pretious with me; the buſineſſe was thus.</p>
+            <pb facs="tcp:60487:3"/>
+            <!-- PDF PAGE 22 -->
+            <p>On Friday laſt September 19. 1645. We called a Councell of War<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the Leaguer before Beeſton Caſtle, to conſult a<g ref="char:EOLhyphen"/>bout the marching to Cheſter, to ſtorm that Gariſon, and and concluded that it ſhould be done forthwith: So we ſtole away from the Leaguer that night, the Enemy within the Ca<g ref="char:EOLhyphen"/>ſtle knowing nothing at all of the buſineſſe; and drew off a<g ref="char:EOLhyphen"/>bout 1300. horſe and foot from the Siege, Collonel <hi>Jones</hi> commanded the horſe, and Adjutant Generall <hi>Louthany</hi> the foot, and the next morning before the Enemie were awake, we came upon them, having marched all that night through the Moores, paſſing over the River at Hupley, and ſo on by the way of Wareton, nor ſo much as ſtaying at Chriſtleton to refreſh our ſelves, leſt by our ſtay we ſhould loſe the oppor<g ref="char:EOLhyphen"/>tunitie, or be diſcovered. We marched that night about eight miles, and paſſed before break of day between Chriſtleton and Huntington, and ſo on to Boughton, all which we carried on ſo private, that the Enemy had not ſo much as an alarme in the City.</p>
+            <p>We came before the City on the North eaſt ſide thereof, where we made no ſtop, but preſently fell to ſtorming, and by break of day were got upon their Works, and many of us got over in ſeverall places, before they heard any thing of us; we took all their workes betweene Cowland and Boughton, quite to the walles of the City, the enemy ſtill flying before us, we purſued them to the inner works which they ſhut up againſt us, but we forced open the gates at the barres, and ſtill fol<g ref="char:EOLhyphen"/>lowed them, driving them into the Eaſt gate, which we had prevented them of, had we not been ſtopped by the faſtning of the gate which they did to gain opportunity to flye into the city; we loſt in all this, not above 2. men killed many wounded, the enemy carried away their dead all but one body, many of note on their ſide are wounded, and we believe many ſlain, two
+<pb facs="tcp:60487:3"/>
+               <!-- PDF PAGE 22 -->of their great Workes we have taken, and all that ſide of the Suburbs, and doubt not but in ſhort time to give a good ac<g ref="char:EOLhyphen"/>compt of the whole Town. The Enemie within we hear, are about 1000. many Malignants are in the Town, we hope we ſhall be able to go on, if the Kings whole ſtrength come not againſt us, and we have no relief to oppoſe them, or relieve us. Money our ſouldiers want much, yet will not our Comman<g ref="char:EOLhyphen"/>ders in chief, ſuffer any of them to plunder the Inhabitants of any thing, nor to drive away their Cattle.</p>
+            <p>One part of the Enemie fled into S. Warburge Minſter ſome at the Eaſt Gate, and ſome at Newgate; we have gained all between the Rack and the Gate going to S. Warburge, for the Northgate we doubt not but we ſhall ſoon determine that, and are ſending in a ſummons for the ſurrender of the Citie and Caſtle, which we hope to give a good accompt of. We have taken the Barres, and the inner. Workes there, and the Majors Houſe, where we took his Sword, and his Mace.</p>
+            <closer>
+               <signed>Your humble ſervant.</signed>
+               <dateline>
+                  <hi>For-gate ſtreet in Cheſter,</hi> 
+                  <date>
+                     <hi>Sept.</hi> 19. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copie of a Letter, containing the manner of the ſurrender of the Devizes, to Lieutenant Generall <hi>Cromwel,</hi> on Tueſday the 23. of Sept. 1645. According to Articles agreed on, Munday the 22. of Sept. 1645.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT hath pleaſed the Lord, ſtill to add further bleſſing to our indea<g ref="char:EOLhyphen"/>vours, we have not been many dayes before this Gariſon of the enemies before it was ſurrendered to us, Colonell <hi>Lloyd</hi> the Gover<g ref="char:EOLhyphen"/>nour, had made ſtrong workes about it, and had Ammunition good ſtore, Major <hi>Du<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> was abroad and a party of the horſe. We hear,
+<pb facs="tcp:60487:4"/>
+               <!-- PDF PAGE 23 -->Collonel <hi>Whally</hi> are gone out towards them, we ſent in a ſummons to Collonel <hi>Loyd</hi> the Governour for the ſurrendering of the Gari<g ref="char:EOLhyphen"/>ſon, and received a modeſt anſwer, in ſhort, this day Commiſſioners were choſen, <hi>2.</hi> of theirs and <hi>2.</hi> of ours, who ſoone determined the buſineſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which had they not done Lieutenant Generall <hi>Crumwell;</hi> was reſolved to ſtorme them ſodainly, but they being willing to con<g ref="char:EOLhyphen"/>deſcend to ſo fair Articles, it was thought better to take the Gariſon upon the termes propounded, then to run that hazard of looſing ma<g ref="char:EOLhyphen"/>ny pretious men, (which we muſt have done had we ſtormed it and (you know) the beſt ſouldiers are alwayes loſt in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch ſervice, J ſent you the ſubſtance of the Articles that they agreed on for the ſur<g ref="char:EOLhyphen"/>rendering of the Gariſon, to Lieutenant Generall <hi>Crumwell,</hi> and reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Dated before the Devizes,</hi> 
+                  <date>
+                     <hi>Sept. 22. 1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <head>The ſubſtance of the Articles agreed upon <hi>Munday</hi> the <hi>2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> of <hi>Sept. 1645.</hi> Between Lieutenant Generall <hi>Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mwell,</hi> and Collo<g ref="char:EOLhyphen"/>nel <hi>Lloyd,</hi> for the ſurrender of the Gariſon of the Devizes.</head>
+            <list>
+               <item>1. THat the Field-Officers march away with their horſe and armes, out of the Devizes to morrow morning.</item>
+               <item>2. That all other Officers march forth with them, onely with their own armes, not carrying out any thing elſe with them.</item>
+               <item>3. That all the common ſoldiers belonging to the Gariſon that march out, do lay down their Armes, and march onely with their perſons ſecured.</item>
+               <item>4. That all the Armes and Ammunition belonging to the Gariſon, ſave the Officers ſingle Armes allowed them, be left in the Gariſon unimbezeled or ſpoiled.</item>
+               <item>5. That they have liberty to chuſe what Gariſon they will march to, within 30. miles of the ſaid Gariſon of the Devizes.</item>
+               <pb facs="tcp:60487:4"/>
+               <!-- PDF PAGE 23 -->
+               <item>6. That a ſafe Convoy be allowed to march along with them, to convoy them to the place which they ſhall nominate, after they are marched out.</item>
+               <item>7. That they have all of them quarter for their lives, and the Town be ſecured from plunder.</item>
+               <item>8. That on the ſaid Tueſday morning, Lieutenant Generall <hi>Cromwell</hi> be admitted to march into the Town, and Caſtle, ac<g ref="char:EOLhyphen"/>cording to the ſaid Articles. And accordingly hoſtages given.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <head>Here followeth the Copie of a Letter from Lieutenant Generall <hi>Da<g ref="char:EOLhyphen"/>vid Leſhly,</hi> to Generall <hi>Leſhly</hi> his father; Of his great Victo<g ref="char:EOLhyphen"/>ry againſt <hi>Montroſſe,</hi> on Saturday and Sunday, Sept. the <hi>13.</hi> and <hi>14. 1645.</hi>
+            </head>
+            <head type="sub">For his Excellency the Earl of Leven, theſe preſent.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency;</salute>
+            </opener>
+            <p>JT hath which God to give us a notable and unexpected victorie, highly begun on the 13. of September, betweene 11. and 12. a clock and was purſued the next day. All <hi>Mon<g ref="char:EOLhyphen"/>troſſes</hi> forces which were Iriſh and Highlanders, killed upon the place, the ſtrength of horſe and dragoones were about 2000. Which are all fled ſeverall wayes. I proteſt I never fought with better horſemen, and againſt more reſolute foote, who were drawn up amongſt the cloſes. The Commanded horſemen, and <hi>Middletons</hi> Regiment were put oncoback, but advanced againe and did moſt gallantly, Lieutenant Colonell <hi>Mercer</hi> had the van<g ref="char:punc">▪</g> who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought exceeding bravely, and Co<g ref="char:EOLhyphen"/>lonell <hi>Robert</hi> Mountgomery did the like and his ſouldiers are much to be commended, but the Lord Mountgomery was a little hurt, the Eord Lanericks behaviour was very gallant, though his Regiment were new liſted forces, and had never been engaged with any enemy before, Lord Craford Linſey
+<pb facs="tcp:60487:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->and all our Noblemen, according to their places and qualities, did well. We have divers priſoners of quality.</p>
+            <p>
+               <hi>May it pleaſe your Excellency,</hi> I intend to haſt away to Glaſ<g ref="char:EOLhyphen"/>coe, becauſe Colekintoe was ſent away with 800. horſe and foote thither, and when God ſhall bring the enemy to that condiſſion that they ſhall not be admitted to come together. I will leave <hi>Middleton</hi> behind, and be ready with the reſt, to wait upon your Excellency.</p>
+            <p>May it pleaſe your Excellencie: This is all I can write, &amp;c.</p>
+            <closer>
+               <dateline>
+                  <hi>From the place where the Battle was fought,</hi> 
+                  <date>15. <hi>of Sept.</hi> 1645,</date>
+               </dateline>
+               <signed>Your Excellencies moſt humble Servant: <hi>DAVID LESHLY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list">
+            <list>
+               <head>A Liſt of the particulars of this great Victory obtained by Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Laſhley</hi> againſt <hi>Montroſſe,</hi> Sept. <hi>17.</hi>
+               </head>
+               <item>3. Barons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in upon the place.</item>
+               <item>2500. Killed upon the place.</item>
+               <item>300. Killed in purſuit.</item>
+               <item>500. Run to their own homes.
+<list>
+                     <head>Taken priſoners.</head>
+                     <item>Earle of Tarquire.</item>
+                     <item>Lord Linthen.</item>
+                     <item>Lord Seaton.</item>
+                     <item>Lord Dounnould.</item>
+                     <item>Lord Grey.</item>
+                     <item>Lord Ogleby.</item>
+                  </list>
+               </item>
+               <item>1700. taken priſoners.</item>
+               <item>Montroſſe fled with not 20. men with him.</item>
+               <item>200. Iriſh ſhot to death againſt poſts, after they were taken ſtragling in the Country.</item>
+               <item>There is not in all the enemies forces above about 1400. left, and Lieutenant General David Leſhly is gone to purſue them, they were not engaged in this fight; but he is gone up to them all.</item>
+            </list>
+            <p>In all this, the Scots have not loſt one Nobleman or any Of<g ref="char:EOLhyphen"/>ficer of no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſave only Lieutenant Generall <hi>Middletons</hi> father; <hi>Montroſſe</hi> (before the fight too) murdered him in his bed, a grave ould Gentleman, that never tooke up Armes at all.</p>
+            <p>All <hi>Montroſses</hi> Carriages was taken, and Ammunition, all his Bag and Baggage, and above 4000. Armes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60487:5"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
